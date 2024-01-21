@@ -1,12 +1,22 @@
-# Byte-compiled / optimized / DLL files
+core.Microsoft*
+core.mongo*
+core.python*
+env.py
 __pycache__/
 *.py[cod]
+node_modules/
+.github/
+cloudinary_python.txt
+
+# Byte-compiled / optimized / DLL files
+# __pycache__/
+# *.py[cod]
 *$py.class
 
 # Caches
 *.sqlite3
 db.sqlite3
-__pycache__/
+# __pycache__/
 
 # Virtual Environment
 venv/
