@@ -47,3 +47,5 @@ staticfiles/
 
 # Windows
 Thumbs.db
+
+blog/fixtures/
